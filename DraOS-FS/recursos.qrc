@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/fondo.png</file>
+        <file>Resources/logo.png</file>
+        <file>Resources/barra.png</file>
+        <file>Resources/add-user.png</file>
+        <file>Resources/delete-user.png</file>
+        <file>Resources/fondoFS.jpg</file>
+        <file>Resources/button_delete_blue.png</file>
+        <file>Resources/document-export.png</file>
+        <file>Resources/document-import.png</file>
+        <file>Resources/home_blue.png</file>
+        <file>Resources/next.png</file>
+        <file>Resources/previous.png</file>
+        <file>Resources/db_comit.png</file>
+        <file>Resources/Downloads.png</file>
+        <file>Resources/Folder-2.png</file>
+        <file>Resources/Setting.png</file>
+        <file>Resources/001_41.png</file>
+        <file>Resources/calendar_2.png</file>
+        <file>Resources/edit-number.png</file>
+        <file>Resources/layer-resize.png</file>
+        <file>Resources/user_business_boss.png</file>
+        <file>Resources/001_44.png</file>
+        <file>Resources/file_extension_bin.png</file>
+        <file>Resources/textfield_rename.png</file>
+        <file>Resources/clock.png</file>
+        <file>Resources/system-file-manager.png</file>
+        <file>Resources/harddrive2.png</file>
+        <file>Resources/Internal_Clear.png</file>
+        <file>Resources/config-users.png</file>
+        <file>Resources/emblem-nowrite.png</file>
+        <file>Resources/interact.png</file>
+        <file>Resources/update foder.png</file>
+    </qresource>
+</RCC>

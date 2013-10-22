@@ -1,0 +1,42 @@
+#-------------------------------------------------
+#
+# Project created by QtCreator 2012-11-24T00:56:10
+#
+#-------------------------------------------------
+
+QT       += core gui
+
+TARGET = DraOS-FS
+TEMPLATE = app
+
+
+SOURCES += main.cpp\
+        fsexplorer.cpp \
+    formuser.cpp \
+    directorio.cpp \
+    datablock.cpp \
+    usuario.cpp \
+    sectorceroinfo.cpp \
+    operacion.cpp \
+    utilerias.cpp \
+    mapabits.cpp \
+    customlistgraph.cpp \
+    customlistitem.cpp
+
+HEADERS  += fsexplorer.h \
+    formuser.h \
+    directorio.h \
+    datablock.h \
+    usuario.h \
+    sectorceroinfo.h \
+    operacion.h \
+    utilerias.h \
+    mapabits.h \
+    customlistgraph.h \
+    customlistitem.h
+
+FORMS    += fsexplorer.ui \
+    formuser.ui
+
+RESOURCES += \
+    recursos.qrc
